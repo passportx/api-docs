@@ -1,0 +1,4 @@
+
+# ignore gitbook items
+node_modules
+_book
